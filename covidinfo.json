@@ -1,0 +1,82 @@
+[
+    {
+        "state":"Selangor",
+        "newcases":"11",
+        "confirmed":"1356"
+    },
+    {
+        "state":"WP Kuala Lumpur",
+        "newcases":"13",
+        "confirmed":"1021"
+    },
+    {
+        "state":"Johor",
+        "newcases":"1",
+        "confirmed":"645"
+    },
+    {
+        "state":"Sarawak",
+        "newcases":"22",
+        "confirmed":"436"
+    },
+    {
+        "state":"N Sembilan",
+        "newcases":"1",
+        "confirmed":"409"
+    },
+    {
+        "state":"Sabah",
+        "newcases":"0",
+        "confirmed":"308"
+    },
+    {
+        "state":"Pahang",
+        "newcases":"8",
+        "confirmed":"279"
+    },
+    {
+        "state":"Perak",
+        "newcases":"0",
+        "confirmed":"252"
+    },
+    {
+        "state":"Melaka",
+        "newcases":"1",
+        "confirmed":"188"
+    },
+    {
+        "state":"Kelantan",
+        "newcases":"0",
+        "confirmed":"155"
+    },
+    {
+        "state":"P Pinang",
+        "newcases":"0",
+        "confirmed":"119"
+    },
+    {
+        "state":"Terengganu",
+        "newcases":"0",
+        "confirmed":"109"
+    },
+    {
+        "state":"Kedah",
+        "newcases":"0",
+        "confirmed":"94"
+    },
+    {
+        "state":"WP Putrajaya",
+        "newcases":"0",
+        "confirmed":"77"
+    },
+    {
+        "state":"Perlis",
+        "newcases":"0",
+        "confirmed":"18"
+    },
+    {
+        "state":"WP Labuan",
+        "newcases":"0",
+        "confirmed":"16"
+    }
+]
